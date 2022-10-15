@@ -1,1 +1,9 @@
 C:\Users\admin\Desktop\Calculate1\Calculate1\bin\Debug\Calculate1.exe.config
+C:\Users\admin\Desktop\Calculate1\Calculate1\bin\Debug\Calculate1.exe
+C:\Users\admin\Desktop\Calculate1\Calculate1\bin\Debug\Calculate1.pdb
+C:\Users\admin\Desktop\Calculate1\Calculate1\obj\Debug\Calculate1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Calculate1\Calculate1\obj\Debug\Calculate1.Form1.resources
+C:\Users\admin\Desktop\Calculate1\Calculate1\obj\Debug\Calculate1.Properties.Resources.resources
+C:\Users\admin\Desktop\Calculate1\Calculate1\obj\Debug\Calculate1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Calculate1\Calculate1\obj\Debug\Calculate1.exe
+C:\Users\admin\Desktop\Calculate1\Calculate1\obj\Debug\Calculate1.pdb
