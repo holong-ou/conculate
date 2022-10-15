@@ -71,9 +71,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(111, 199);
+            this.button1.Location = new System.Drawing.Point(91, 199);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(193, 23);
+            this.button1.Size = new System.Drawing.Size(237, 23);
             this.button1.TabIndex = 4;
             this.button1.Text = "nhan";
             this.button1.UseVisualStyleBackColor = true;
@@ -90,9 +90,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(111, 228);
+            this.button2.Location = new System.Drawing.Point(91, 228);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(193, 23);
+            this.button2.Size = new System.Drawing.Size(237, 23);
             this.button2.TabIndex = 6;
             this.button2.Text = "cong";
             this.button2.UseVisualStyleBackColor = true;
