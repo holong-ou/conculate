@@ -28,5 +28,12 @@ namespace Calculate1
             double b = Convert.ToDouble(textBox2.Text);
             label3.Text = Convert.ToString(a * b);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(textBox1.Text);
+            double b = Convert.ToDouble(textBox2.Text);
+            label3.Text = Convert.ToString(a - b);
+        }
     }
 }
